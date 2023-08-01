@@ -12,6 +12,9 @@ h1 {
     color: goldenrod;
 }
 
+#message-el{
+    font-style: italic;
+}
 button{ 
     color: #016f32;
     width: 150px;
